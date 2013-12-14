@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<field width="1000" height="1000" generationCount="100">
+  <gen n="1">
+    <node id="n1" x="0" y="800" />
+    <node id="n2" x="500" y="500" />
+    <node id="n3" x="0" y="800" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="2">
+    <node id="n1" x="12" y="793" />
+    <node id="n2" x="486" y="508" />
+    <node id="n3" x="9" y="794" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="3">
+    <node id="n1" x="24" y="786" />
+    <node id="n2" x="472" y="516" />
+    <node id="n3" x="18" y="788" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="4">
+    <node id="n1" x="36" y="779" />
+    <node id="n2" x="458" y="524" />
+    <node id="n3" x="27" y="782" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="5">
+    <node id="n1" x="48" y="772" />
+    <node id="n2" x="444" y="532" />
+    <node id="n3" x="36" y="776" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="6">
+    <node id="n1" x="60" y="765" />
+    <node id="n2" x="430" y="540" />
+    <node id="n3" x="45" y="770" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="7">
+    <node id="n1" x="72" y="758" />
+    <node id="n2" x="416" y="548" />
+    <node id="n3" x="54" y="764" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="8">
+    <node id="n1" x="84" y="751" />
+    <node id="n2" x="402" y="556" />
+    <node id="n3" x="63" y="758" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="9">
+    <node id="n1" x="96" y="744" />
+    <node id="n2" x="388" y="564" />
+    <node id="n3" x="72" y="752" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="10">
+    <node id="n1" x="108" y="737" />
+    <node id="n2" x="374" y="572" />
+    <node id="n3" x="81" y="746" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="11">
+    <node id="n1" x="120" y="730" />
+    <node id="n2" x="360" y="580" />
+    <node id="n3" x="90" y="740" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="12">
+    <node id="n1" x="132" y="723" />
+    <node id="n2" x="346" y="588" />
+    <node id="n3" x="99" y="734" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="13">
+    <node id="n1" x="144" y="716" />
+    <node id="n2" x="332" y="596" />
+    <node id="n3" x="109" y="728" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="14">
+    <node id="n1" x="156" y="709" />
+    <node id="n2" x="318" y="604" />
+    <node id="n3" x="119" y="722" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="15">
+    <node id="n1" x="168" y="702" />
+    <node id="n2" x="304" y="612" />
+    <node id="n3" x="129" y="716" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="16">
+    <node id="n1" x="180" y="695" />
+    <node id="n2" x="290" y="620" />
+    <node id="n3" x="139" y="710" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="17">
+    <node id="n1" x="192" y="688" />
+    <node id="n2" x="276" y="628" />
+    <node id="n3" x="149" y="704" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="18">
+    <node id="n1" x="204" y="681" />
+    <node id="n2" x="262" y="636" />
+    <node id="n3" x="159" y="698" />
+    <edge id="e0" from="n1" to="n2" />
+    <edge id="e1" from="n1" to="n3" />
+    <edge id="e2" from="n2" to="n1" />
+    <edge id="e3" from="n3" to="n1" />
+  </gen>
+  <gen n="19">
+    <node id="n1" x="216" y="674" />
+    <node id="n2" x="248" y="644" />
+    <node id="n3" x="169" y="692" />
+    <edge id="e0" from="n1" to="n2" />
+    <edge id="e1" from="n1" to="n3" />
+    <edge id="e2" from="n2" to="n1" />
+    <edge id="e3" from="n3" to="n1" />
+  </gen>
+  <gen n="20">
+    <node id="n1" x="228" y="667" />
+    <node id="n2" x="234" y="653" />
+    <node id="n3" x="179" y="686" />
+    <edge id="e0" from="n1" to="n2" />
+    <edge id="e1" from="n1" to="n3" />
+    <edge id="e2" from="n2" to="n1" />
+    <edge id="e3" from="n2" to="n3" />
+    <edge id="e4" from="n3" to="n1" />
+    <edge id="e5" from="n3" to="n2" />
+  </gen>
+  <gen n="21">
+    <node id="n1" x="240" y="660" />
+    <node id="n2" x="220" y="662" />
+    <node id="n3" x="189" y="680" />
+    <edge id="e0" from="n1" to="n2" />
+    <edge id="e1" from="n1" to="n3" />
+    <edge id="e2" from="n2" to="n1" />
+    <edge id="e3" from="n2" to="n3" />
+    <edge id="e4" from="n3" to="n1" />
+    <edge id="e5" from="n3" to="n2" />
+  </gen>
+  <gen n="22">
+    <node id="n1" x="252" y="653" />
+    <node id="n2" x="206" y="671" />
+    <node id="n3" x="199" y="674" />
+    <edge id="e0" from="n1" to="n2" />
+    <edge id="e1" from="n1" to="n3" />
+    <edge id="e2" from="n2" to="n1" />
+    <edge id="e3" from="n2" to="n3" />
+    <edge id="e4" from="n3" to="n1" />
+    <edge id="e5" from="n3" to="n2" />
+  </gen>
+  <gen n="23">
+    <node id="n1" x="264" y="646" />
+    <node id="n2" x="192" y="679" />
+    <node id="n3" x="209" y="668" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n2" to="n3" />
+    <edge id="e2" from="n3" to="n1" />
+    <edge id="e3" from="n3" to="n2" />
+  </gen>
+  <gen n="24">
+    <node id="n1" x="276" y="639" />
+    <node id="n2" x="178" y="688" />
+    <node id="n3" x="219" y="663" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n2" to="n3" />
+    <edge id="e2" from="n3" to="n1" />
+    <edge id="e3" from="n3" to="n2" />
+  </gen>
+  <gen n="25">
+    <node id="n1" x="288" y="632" />
+    <node id="n2" x="164" y="697" />
+    <node id="n3" x="229" y="657" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="26">
+    <node id="n1" x="300" y="625" />
+    <node id="n2" x="150" y="706" />
+    <node id="n3" x="239" y="651" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="27">
+    <node id="n1" x="312" y="618" />
+    <node id="n2" x="136" y="714" />
+    <node id="n3" x="249" y="645" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="28">
+    <node id="n1" x="324" y="611" />
+    <node id="n2" x="122" y="723" />
+    <node id="n3" x="259" y="639" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="29">
+    <node id="n1" x="336" y="604" />
+    <node id="n2" x="108" y="732" />
+    <node id="n3" x="269" y="634" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="30">
+    <node id="n1" x="348" y="597" />
+    <node id="n2" x="94" y="741" />
+    <node id="n3" x="279" y="628" />
+  </gen>
+  <gen n="31">
+    <node id="n1" x="360" y="589" />
+    <node id="n2" x="80" y="750" />
+    <node id="n3" x="289" y="622" />
+  </gen>
+  <gen n="32">
+    <node id="n1" x="372" y="581" />
+    <node id="n2" x="66" y="758" />
+    <node id="n3" x="299" y="616" />
+  </gen>
+  <gen n="33">
+    <node id="n1" x="384" y="574" />
+    <node id="n2" x="53" y="767" />
+    <node id="n3" x="309" y="611" />
+  </gen>
+  <gen n="34">
+    <node id="n1" x="396" y="566" />
+    <node id="n2" x="39" y="775" />
+    <node id="n3" x="319" y="605" />
+  </gen>
+  <gen n="35">
+    <node id="n1" x="408" y="558" />
+    <node id="n2" x="26" y="784" />
+    <node id="n3" x="329" y="599" />
+  </gen>
+  <gen n="36">
+    <node id="n1" x="420" y="551" />
+    <node id="n2" x="12" y="792" />
+    <node id="n3" x="339" y="593" />
+  </gen>
+  <gen n="37">
+    <node id="n1" x="432" y="543" />
+    <node id="n2" x="26" y="784" />
+    <node id="n3" x="349" y="587" />
+  </gen>
+  <gen n="38">
+    <node id="n1" x="444" y="536" />
+    <node id="n2" x="40" y="776" />
+    <node id="n3" x="359" y="582" />
+  </gen>
+  <gen n="39">
+    <node id="n1" x="456" y="528" />
+    <node id="n2" x="54" y="768" />
+    <node id="n3" x="369" y="576" />
+  </gen>
+  <gen n="40">
+    <node id="n1" x="468" y="520" />
+    <node id="n2" x="68" y="760" />
+    <node id="n3" x="379" y="570" />
+  </gen>
+  <gen n="41">
+    <node id="n1" x="480" y="513" />
+    <node id="n2" x="82" y="752" />
+    <node id="n3" x="389" y="564" />
+  </gen>
+  <gen n="42">
+    <node id="n1" x="492" y="505" />
+    <node id="n2" x="96" y="744" />
+    <node id="n3" x="399" y="559" />
+  </gen>
+  <gen n="43">
+    <node id="n1" x="482" y="495" />
+    <node id="n2" x="110" y="736" />
+    <node id="n3" x="408" y="553" />
+  </gen>
+  <gen n="44">
+    <node id="n1" x="472" y="485" />
+    <node id="n2" x="124" y="728" />
+    <node id="n3" x="418" y="548" />
+  </gen>
+  <gen n="45">
+    <node id="n1" x="462" y="475" />
+    <node id="n2" x="138" y="720" />
+    <node id="n3" x="427" y="542" />
+  </gen>
+  <gen n="46">
+    <node id="n1" x="452" y="465" />
+    <node id="n2" x="152" y="712" />
+    <node id="n3" x="437" y="537" />
+    <edge id="e0" from="n1" to="n3" />
+    <edge id="e1" from="n3" to="n1" />
+  </gen>
+  <gen n="47">
+    <node id="n1" x="442" y="455" />
+    <node id="n2" x="166" y="704" />
+    <node id="n3" x="446" y="531" />
+  </gen>
+  <gen n="48">
+    <node id="n1" x="432" y="445" />
+    <node id="n2" x="180" y="696" />
+    <node id="n3" x="456" y="526" />
+  </gen>
+  <gen n="49">
+    <node id="n1" x="422" y="435" />
+    <node id="n2" x="194" y="688" />
+    <node id="n3" x="465" y="520" />
+  </gen>
+  <gen n="50">
+    <node id="n1" x="412" y="425" />
+    <node id="n2" x="208" y="680" />
+    <node id="n3" x="475" y="515" />
+  </gen>
+  <gen n="51">
+    <node id="n1" x="402" y="415" />
+    <node id="n2" x="222" y="672" />
+    <node id="n3" x="484" y="509" />
+  </gen>
+  <gen n="52">
+    <node id="n1" x="392" y="405" />
+    <node id="n2" x="236" y="664" />
+    <node id="n3" x="475" y="515" />
+  </gen>
+  <gen n="53">
+    <node id="n1" x="382" y="395" />
+    <node id="n2" x="250" y="656" />
+    <node id="n3" x="466" y="521" />
+  </gen>
+  <gen n="54">
+    <node id="n1" x="372" y="385" />
+    <node id="n2" x="264" y="648" />
+    <node id="n3" x="457" y="527" />
+  </gen>
+  <gen n="55">
+    <node id="n1" x="362" y="375" />
+    <node id="n2" x="278" y="639" />
+    <node id="n3" x="448" y="533" />
+  </gen>
+  <gen n="56">
+    <node id="n1" x="352" y="365" />
+    <node id="n2" x="292" y="631" />
+    <node id="n3" x="439" y="539" />
+  </gen>
+  <gen n="57">
+    <node id="n1" x="342" y="355" />
+    <node id="n2" x="306" y="622" />
+    <node id="n3" x="430" y="545" />
+  </gen>
+  <gen n="58">
+    <node id="n1" x="332" y="345" />
+    <node id="n2" x="320" y="613" />
+    <node id="n3" x="421" y="551" />
+  </gen>
+  <gen n="59">
+    <node id="n1" x="322" y="335" />
+    <node id="n2" x="334" y="604" />
+    <node id="n3" x="412" y="557" />
+  </gen>
+  <gen n="60">
+    <node id="n1" x="312" y="325" />
+    <node id="n2" x="348" y="596" />
+    <node id="n3" x="403" y="563" />
+    <edge id="e0" from="n2" to="n3" />
+    <edge id="e1" from="n3" to="n2" />
+  </gen>
+  <gen n="61">
+    <node id="n1" x="302" y="315" />
+    <node id="n2" x="362" y="587" />
+    <node id="n3" x="394" y="569" />
+    <edge id="e0" from="n2" to="n3" />
+    <edge id="e1" from="n3" to="n2" />
+  </gen>
+  <gen n="62">
+    <node id="n1" x="292" y="305" />
+    <node id="n2" x="376" y="578" />
+    <node id="n3" x="385" y="575" />
+    <edge id="e0" from="n2" to="n3" />
+    <edge id="e1" from="n3" to="n2" />
+  </gen>
+  <gen n="63">
+    <node id="n1" x="282" y="295" />
+    <node id="n2" x="390" y="569" />
+    <node id="n3" x="376" y="581" />
+    <edge id="e0" from="n2" to="n3" />
+    <edge id="e1" from="n3" to="n2" />
+  </gen>
+  <gen n="64">
+    <node id="n1" x="272" y="285" />
+    <node id="n2" x="404" y="560" />
+    <node id="n3" x="366" y="587" />
+    <edge id="e0" from="n2" to="n3" />
+    <edge id="e1" from="n3" to="n2" />
+  </gen>
+  <gen n="65">
+    <node id="n1" x="262" y="275" />
+    <node id="n2" x="418" y="552" />
+    <node id="n3" x="356" y="593" />
+    <edge id="e0" from="n2" to="n3" />
+    <edge id="e1" from="n3" to="n2" />
+  </gen>
+  <gen n="66">
+    <node id="n1" x="252" y="265" />
+    <node id="n2" x="432" y="543" />
+    <node id="n3" x="346" y="599" />
+  </gen>
+  <gen n="67">
+    <node id="n1" x="242" y="255" />
+    <node id="n2" x="446" y="534" />
+    <node id="n3" x="336" y="605" />
+  </gen>
+  <gen n="68">
+    <node id="n1" x="232" y="245" />
+    <node id="n2" x="460" y="525" />
+    <node id="n3" x="326" y="611" />
+  </gen>
+  <gen n="69">
+    <node id="n1" x="222" y="235" />
+    <node id="n2" x="474" y="517" />
+    <node id="n3" x="316" y="617" />
+  </gen>
+  <gen n="70">
+    <node id="n1" x="212" y="225" />
+    <node id="n2" x="487" y="508" />
+    <node id="n3" x="306" y="623" />
+  </gen>
+  <gen n="71">
+    <node id="n1" x="202" y="215" />
+    <node id="n2" x="476" y="496" />
+    <node id="n3" x="296" y="629" />
+  </gen>
+  <gen n="72">
+    <node id="n1" x="192" y="205" />
+    <node id="n2" x="465" y="484" />
+    <node id="n3" x="286" y="635" />
+  </gen>
+  <gen n="73">
+    <node id="n1" x="182" y="195" />
+    <node id="n2" x="454" y="472" />
+    <node id="n3" x="276" y="640" />
+  </gen>
+  <gen n="74">
+    <node id="n1" x="172" y="185" />
+    <node id="n2" x="443" y="460" />
+    <node id="n3" x="266" y="646" />
+  </gen>
+  <gen n="75">
+    <node id="n1" x="162" y="175" />
+    <node id="n2" x="432" y="448" />
+    <node id="n3" x="256" y="652" />
+  </gen>
+  <gen n="76">
+    <node id="n1" x="152" y="165" />
+    <node id="n2" x="421" y="436" />
+    <node id="n3" x="246" y="658" />
+  </gen>
+  <gen n="77">
+    <node id="n1" x="143" y="155" />
+    <node id="n2" x="410" y="424" />
+    <node id="n3" x="236" y="663" />
+  </gen>
+  <gen n="78">
+    <node id="n1" x="134" y="145" />
+    <node id="n2" x="399" y="412" />
+    <node id="n3" x="226" y="669" />
+  </gen>
+  <gen n="79">
+    <node id="n1" x="124" y="135" />
+    <node id="n2" x="388" y="401" />
+    <node id="n3" x="216" y="675" />
+  </gen>
+  <gen n="80">
+    <node id="n1" x="115" y="125" />
+    <node id="n2" x="377" y="390" />
+    <node id="n3" x="206" y="681" />
+  </gen>
+  <gen n="81">
+    <node id="n1" x="106" y="115" />
+    <node id="n2" x="366" y="378" />
+    <node id="n3" x="196" y="687" />
+  </gen>
+  <gen n="82">
+    <node id="n1" x="97" y="105" />
+    <node id="n2" x="355" y="367" />
+    <node id="n3" x="186" y="692" />
+  </gen>
+  <gen n="83">
+    <node id="n1" x="88" y="95" />
+    <node id="n2" x="344" y="355" />
+    <node id="n3" x="176" y="698" />
+  </gen>
+  <gen n="84">
+    <node id="n1" x="78" y="85" />
+    <node id="n2" x="333" y="344" />
+    <node id="n3" x="166" y="704" />
+  </gen>
+  <gen n="85">
+    <node id="n1" x="69" y="75" />
+    <node id="n2" x="322" y="333" />
+    <node id="n3" x="156" y="710" />
+  </gen>
+  <gen n="86">
+    <node id="n1" x="60" y="65" />
+    <node id="n2" x="311" y="321" />
+    <node id="n3" x="146" y="715" />
+  </gen>
+  <gen n="87">
+    <node id="n1" x="51" y="55" />
+    <node id="n2" x="300" y="310" />
+    <node id="n3" x="136" y="721" />
+  </gen>
+  <gen n="88">
+    <node id="n1" x="41" y="45" />
+    <node id="n2" x="289" y="299" />
+    <node id="n3" x="126" y="727" />
+  </gen>
+  <gen n="89">
+    <node id="n1" x="32" y="35" />
+    <node id="n2" x="278" y="287" />
+    <node id="n3" x="116" y="733" />
+  </gen>
+  <gen n="90">
+    <node id="n1" x="23" y="25" />
+    <node id="n2" x="267" y="276" />
+    <node id="n3" x="106" y="739" />
+  </gen>
+  <gen n="91">
+    <node id="n1" x="14" y="15" />
+    <node id="n2" x="256" y="265" />
+    <node id="n3" x="96" y="744" />
+  </gen>
+  <gen n="92">
+    <node id="n1" x="4" y="5" />
+    <node id="n2" x="245" y="253" />
+    <node id="n3" x="86" y="750" />
+  </gen>
+  <gen n="93">
+    <node id="n1" x="14" y="15" />
+    <node id="n2" x="234" y="242" />
+    <node id="n3" x="76" y="756" />
+  </gen>
+  <gen n="94">
+    <node id="n1" x="24" y="25" />
+    <node id="n2" x="223" y="230" />
+    <node id="n3" x="66" y="762" />
+  </gen>
+  <gen n="95">
+    <node id="n1" x="34" y="35" />
+    <node id="n2" x="212" y="219" />
+    <node id="n3" x="56" y="767" />
+  </gen>
+  <gen n="96">
+    <node id="n1" x="44" y="45" />
+    <node id="n2" x="201" y="208" />
+    <node id="n3" x="47" y="773" />
+  </gen>
+  <gen n="97">
+    <node id="n1" x="54" y="55" />
+    <node id="n2" x="190" y="196" />
+    <node id="n3" x="37" y="778" />
+  </gen>
+  <gen n="98">
+    <node id="n1" x="64" y="65" />
+    <node id="n2" x="179" y="185" />
+    <node id="n3" x="28" y="784" />
+  </gen>
+  <gen n="99">
+    <node id="n1" x="74" y="75" />
+    <node id="n2" x="168" y="174" />
+    <node id="n3" x="18" y="789" />
+  </gen>
+  <gen n="100">
+    <node id="n1" x="84" y="85" />
+    <node id="n2" x="157" y="162" />
+    <node id="n3" x="9" y="795" />
+  </gen>
+</field>

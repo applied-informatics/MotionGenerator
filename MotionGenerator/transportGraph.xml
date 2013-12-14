@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<field width="1000" height="1000">
+  <node id="n1" x="0" y="0" />
+  <node id="n2" x="500" y="500" />
+  <node id="n3" x="0" y="800" />
+
+  <edge id="e1" from="n1" to="n2" />
+  <edge id="e2" from="n2" to="n1" />
+  <edge id="e3" from="n2" to="n3" />
+  <edge id="e4" from="n3" to="n2" />
+</field>
